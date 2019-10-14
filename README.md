@@ -1,12 +1,9 @@
-# Steghide Brute Force Tool
-Execute a brute force attack with Steghide to file with hide information and password established.
+# StegHunter
+Identifying files with hidden data, and bruteforcing password protected regions to extract information hidden via StegHide and StegoSuite.
 
-# How it work
-Cloning this repo to your computer and typing in your terminal:<br/>
+# How to use this tool
+Clone (download) this repo to your computer<br/>
 <code>git clone https://github.com/Va5c0/Steghide-Brute-Force-Tool.git</code>
-
-To launch the script by typing:<br/>
-<code>python steg_brute.py [option] [-f file]</code>
 
 For more instructions type<br/>
 <code>python steg_brute.py -h</code>
